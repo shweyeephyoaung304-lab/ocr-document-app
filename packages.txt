@@ -1,0 +1,4 @@
+!apt-get install tesseract-ocr-tha
+!apt-get install tesseract-ocr-chi-sim
+!apt-get install tesseract-ocr-chi-tra
+!apt install tesseract-ocr
