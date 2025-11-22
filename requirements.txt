@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+pytesseract
+numpy
+Pillow
+imutils
+transformers
+torch
+scipy
+pdf2image
+python-docx
