@@ -1,0 +1,4 @@
+tesseract-ocr
+tesseract-ocr-tha
+tesseract-ocr-chi-sim
+tesseract-ocr-chi-tra
