@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless==4.7.0.72
+pytesseract
+numpy
+Pillow
+imutils
+transformers
+torch
